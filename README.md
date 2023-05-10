@@ -2,6 +2,8 @@
 # Famous Quotes App
 
 
+![Famous Quotes](https://github.com/Marlvin12/Famous_Quote_IOS_APP/assets/122947486/38159d30-93cb-4f65-90cf-5d4f1dbd5214)
+
 
 
 This SwiftUI app displays a list of famous quotes by notable figures. Users can browse the list and view more details about each quote by tapping on it. The app features a clean, engaging design with custom colors and fonts.
